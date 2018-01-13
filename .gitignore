@@ -1,0 +1,7 @@
+*~
+.DS_Store
+*.tmp
+*.bak
+/.dat
+/_site
+/_dat
